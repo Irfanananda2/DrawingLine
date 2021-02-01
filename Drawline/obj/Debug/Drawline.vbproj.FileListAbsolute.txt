@@ -1,0 +1,13 @@
+E:\CGA\Drawline\Drawline\bin\Debug\Drawline.exe.config
+E:\CGA\Drawline\Drawline\bin\Debug\Drawline.exe
+E:\CGA\Drawline\Drawline\bin\Debug\Drawline.pdb
+E:\CGA\Drawline\Drawline\bin\Debug\Drawline.xml
+E:\CGA\Drawline\Drawline\obj\Debug\Drawline.vbprojAssemblyReference.cache
+E:\CGA\Drawline\Drawline\obj\Debug\Drawline.Form1.resources
+E:\CGA\Drawline\Drawline\obj\Debug\Drawline.Resources.resources
+E:\CGA\Drawline\Drawline\obj\Debug\Drawline.vbproj.GenerateResource.cache
+E:\CGA\Drawline\Drawline\obj\Debug\Drawline.vbproj.CoreCompileInputs.cache
+E:\CGA\Drawline\Drawline\obj\Debug\Drawline.exe
+E:\CGA\Drawline\Drawline\obj\Debug\Drawline.xml
+E:\CGA\Drawline\Drawline\obj\Debug\Drawline.pdb
+E:\CGA\Drawline\Drawline\obj\Debug\Drawline.Form2.resources
